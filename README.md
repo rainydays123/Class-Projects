@@ -1,2 +1,2 @@
 # Class-Projects
-A repository for class project.
+A repository for class projects.
